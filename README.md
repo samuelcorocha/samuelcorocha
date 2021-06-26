@@ -7,19 +7,22 @@
 Here are some ideas to get you started:
 -->
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <p>
-    - 🔭 I’m currently working on my portfolio<br>
-    - 🌱 I’m currently learning web development<br>
-    - 💬 Ask me about anything<br>
-    </p>
-    <a >
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=samuelcorocha&count_private=true&show_icons=true&theme=slateorange" alt="Samuel' Stats">
-    </a>   
-</div>
-</div>
+<table align="" width="10em">
+    <tr>
+        <td>
+            <p>
+            - 🔭 I’m currently working on my portfolio<br>
+            - 🌱 I’m currently learning web development<br>
+            - 💬 Ask me about anything<br>
+            </p>
+        </td>
+        <td>
+            <img align="right" src="https://github-readme-stats.vercel.app/api?username=samuelcorocha&count_private=true&show_icons=true&theme=slateorange" alt="Samuel' Stats">
+        </td>
+    </tr>
+</table>
 <!--<a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcorocha&layout=compact&theme=slateorange">
-</a>-->
+</a>
     <img align="center" src="https://github.com/samuelcorocha/samuelcorocha/blob/output/github-contribution-grid-snake.svg">
-</div>
+-->
