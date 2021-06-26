@@ -21,7 +21,18 @@ Here are some ideas to get you started:
         </td>
     </tr>
 </table>
-<!--<a>
+<!--
+<div style="width: 100%; display: flex; align-items: center; justify-content: space-between;">
+    <p>
+    - 🔭 I’m currently working on my portfolio<br>
+    - 🌱 I’m currently learning web development<br>
+    - 💬 Ask me about anything<br>
+    </p>
+    <a >
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=samuelcorocha&count_private=true&show_icons=true&theme=slateorange" alt="Samuel' Stats">
+    </a>   
+</div>
+<a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcorocha&layout=compact&theme=slateorange">
 </a>
     <img align="center" src="https://github.com/samuelcorocha/samuelcorocha/blob/output/github-contribution-grid-snake.svg">
