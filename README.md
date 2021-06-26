@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div display="flex">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelcorocha&count_private=true&show_icons=true&theme=monokai">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcorocha&layout=compact&theme=monokai">
+</div>
+
+<div>
+    ![Snake animation](https://github.com/samuelcorocha/samuelcorocha/blob/output/github-contribution-grid-snake.svg)
+</div>
