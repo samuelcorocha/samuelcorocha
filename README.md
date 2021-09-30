@@ -19,6 +19,9 @@ Here are some ideas to get you started:
         <td>
             <img align="right" src="https://github-readme-stats.vercel.app/api?username=samuelcorocha&count_private=true&show_icons=true&theme=slateorange" alt="Samuel' Stats">
         </td>
+        <td>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcorocha&layout=compact&theme=slateorange">
+        </td>
     </tr>
 </table>
 <!--
