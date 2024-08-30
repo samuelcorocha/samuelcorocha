@@ -30,7 +30,7 @@ A tech enthusiast developing some stuffs since 2016.
 
 * **Name:** Samuel Rocha
 
-* **Age:** 22
+* **Age:** 23
 
 * **Living in:** Belo Horizonte - MG, Brazil
 
