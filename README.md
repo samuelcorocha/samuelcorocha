@@ -6,7 +6,7 @@
   <a target='_blank' href="https://twitch.tv/samuelcorocha">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
     </a>
-    <a target='_blank' href="https://twitter.com/samuelcorocha">
+    <a target='_blank' href="https://x.com/samuelcorocha">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     <a target='_blank' href="https://instagram.com/samuelcorocha">
@@ -30,7 +30,7 @@ A tech enthusiast developing some stuffs since 2016.
 
 * **Name:** Samuel Rocha
 
-* **Age:** 23
+* **Age:** 25
 
 * **Living in:** Belo Horizonte - MG, Brazil
 
