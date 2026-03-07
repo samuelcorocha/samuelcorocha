@@ -2,26 +2,6 @@
 
 ###
 
-<div align="center">
-  <a target='_blank' href="https://twitch.tv/samuelcorocha">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-    </a>
-    <a target='_blank' href="https://x.com/samuelcorocha">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a target='_blank' href="https://instagram.com/samuelcorocha">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a target='_blank' href="https://linkedin.com/in/samuelcorocha">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="https://dev.to/samuelcorocha">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-    </a>
-</div>
-
-###
-
 <img align="right" height="250" src="https://64.media.tumblr.com/e398373c048898cabbff5efcf8a54279/849f06454fc3e048-fa/s640x960/67d2bdb2164176600ac175d7a74e354d78e66d48.gifv"  />
 
 ###
@@ -30,11 +10,7 @@ A tech enthusiast developing some stuffs since 2016.
 
 * **Name:** Samuel Rocha
 
-* **Age:** 25
-
 * **Living in:** Belo Horizonte - MG, Brazil
-
-* **University:** Pontifícia Universidade Católica de Minas Gerais
 
 ###
 
