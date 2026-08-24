@@ -1,43 +1,48 @@
-<h3 align="center">hello world_</h3>
-
-###
-
-<img align="right" height="250" src="https://64.media.tumblr.com/e398373c048898cabbff5efcf8a54279/849f06454fc3e048-fa/s640x960/67d2bdb2164176600ac175d7a74e354d78e66d48.gifv"  />
-
-###
-
-A tech enthusiast developing some stuffs since 2016.
-
-* **Name:** Samuel Rocha
-
-* **Living in:** Belo Horizonte - MG, Brazil
-
-###
+<div align="center">
+  <img align="right" height="200" src="https://64.media.tumblr.com/e398373c048898cabbff5efcf8a54279/849f06454fc3e048-fa/s640x960/67d2bdb2164176600ac175d7a74e354d78e66d48.gifv" />
+  <h1>Hi, I'm Samuel Rocha 👋</h1>
+  <p><b>Software Engineer</b> specializing in <b>Backend</b> and <b>DevOps</b>.</p>
+  <p>Automating infra, containerizing everything, and aiming for remote roles worldwide.</p>
+</div>
 
 <br clear="both">
 
-###
+### 🚀 About Me
+- 💼 Focused on scalable backend, automation, and containerized workflows
+- 🎯 Deepening skills in **Kubernetes**, **CI/CD (GitHub Actions)**, and **AWS**
+- 🎓 BSc in Computer Engineering — PUC Minas
+- 🌐 Looking for remote opportunities outside Brazil
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge"/>
+---
 
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge"/>
+### 🛠️ Tech Stack
 
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
+**Backend**
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-###
+**DevOps & Infra**
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</div>
+
+**Data**
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+</div>
+
+---
+
+### 🎯 Hobbies
+When I'm not configuring servers or writing backend code, you'll find me tinkering with:
+🔌 IoT (ESP32) · 👁️ Computer vision · 🎮 Game dev
